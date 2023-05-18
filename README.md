@@ -7,9 +7,9 @@ Hardened Firefox setings for Android
 
 3.Settings:
 
-- HTTPS Only Mode=All Tabs
+- HTTPS Only Mode:All Tabs
 
-- Enhanced Tracking Protection=Strict
+- Enhanced Tracking Protection:Strict
 
 - Show Search Suggestion:Off
 
@@ -29,11 +29,11 @@ privacy.resistFingerprinting:true
 
 privacy.resistFingerprinting.block_mozAddonManager:true
 
-- Dsabling WebRTC (Meeting website may not working)
+- Disable WebRTC (Meeting website may not working)
 
 media.peerconnection.enabled=false
 
-- Disable safebrowsing
+- Disable Google Safebrowsing
 
 browser.safebrowsing.phishing.enabled=false
 
