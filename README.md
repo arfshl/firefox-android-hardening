@@ -41,7 +41,7 @@ browser.safebrowsing.malware.enabled=false
 
 5.Add-ons settings
 
-- NoScript
+- NoScript [Configuration File](https://github.com/arfshl/firefox-android-hardening/raw/main/noscript.txt)
 
 Default/Trusted:script,object,media,frame,font,webgl,fetch
 
@@ -51,7 +51,7 @@ Cross-tab identity leak protection:Enabled Everywhere
 
 Sanitize cross-site suspicious requests:ON
 
-- uBlock Origin
+- uBlock Origin [Configuration File](https://github.com/arfshl/firefox-android-hardening/raw/main/ublock.txt)
 
 Built-in:All
 
