@@ -29,6 +29,25 @@ privacy.resistFingerprinting:true
 
 privacy.resistFingerprinting.block_mozAddonManager:true
 
+privacy.resistFingerprinting.autoDeclineNoUserInputCanvasPrompts:true
+
+privacy.resistFingerprinting.exemptedDomains:*.example.invalid
+
+privacy.resistFingerprinting.jsmloglevel:Warn
+
+privacy.resistFingerprinting.letterboxing:true
+
+privacy.resistFingerprinting.randomDataOnCanvasExtract:true
+
+privacy.resistFingerprinting.reduceTimerPrecision.jitter:true
+
+privacy.resistFingerprinting.reduceTimerPrecision.microseconds:1000
+
+privacy.resistFingerprinting.target_video_res:480
+
+privacy.resistFingerprinting.testGranularityMask:0
+
+
 - Disable WebRTC (Meeting website may not working)
 
 media.peerconnection.enabled=false
