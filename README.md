@@ -52,12 +52,6 @@ privacy.resistFingerprinting.testGranularityMask:0
 
 media.peerconnection.enabled=false
 
-- Disable Google Safebrowsing
-
-browser.safebrowsing.phishing.enabled=false
-
-browser.safebrowsing.malware.enabled=false
-
 5.Add-ons settings
 
 - NoScript [Configuration File](https://github.com/arfshl/firefox-android-hardening/raw/main/noscript.txt)
