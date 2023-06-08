@@ -52,6 +52,11 @@ privacy.resistFingerprinting.testGranularityMask:0
 
 media.peerconnection.enabled=false
 
+
+- Enable [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection)
+
+network.cookie.cookieBehavior:5
+
 5.Add-ons settings
 
 - NoScript [Configuration File](https://github.com/arfshl/firefox-android-hardening/raw/main/noscript.txt)
