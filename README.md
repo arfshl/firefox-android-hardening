@@ -1,7 +1,7 @@
 # firefox-android-hardening
 Hardened Firefox setings for Android 
 
-1.Firefox:[Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta),[Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix), or [Fennec F-Droid (Recommended)](https://f-droid.org/packages/org.mozilla.fennec_fdroid)
+1.Firefox:[Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta),[Nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix), or [Fennec F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid)
 
 2.Add-ons:uBlock Origin,NoScript
 
