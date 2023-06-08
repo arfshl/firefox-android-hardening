@@ -9,7 +9,7 @@ Hardened Firefox setings for Android
 
 - HTTPS Only Mode:All Tabs
 
-- Enhanced Tracking Protection:~Strict~ Disabled (ETP is sending do not track signal)
+- Enhanced Tracking Protection:~Strict~ Standard (ETP is sending do not track header when set to strict,do not track header can be used for fingerprinnting)
 
 - Show Search Suggestion:Off
 
@@ -51,11 +51,6 @@ privacy.resistFingerprinting.testGranularityMask:0
 - Disable WebRTC (Meeting website may not working)
 
 media.peerconnection.enabled=false
-
-
-- Enable [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection)
-
-network.cookie.cookieBehavior:5
 
 5.Add-ons settings
 
