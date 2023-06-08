@@ -9,7 +9,7 @@ Hardened Firefox setings for Android
 
 - HTTPS Only Mode:All Tabs
 
-- Enhanced Tracking Protection:Strict
+- ~Enhanced Tracking Protection:Strict~
 
 - Show Search Suggestion:Off
 
