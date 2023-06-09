@@ -35,8 +35,6 @@ privacy.resistFingerprinting.exemptedDomains:*.example.invalid
 
 privacy.resistFingerprinting.jsmloglevel:Warn
 
-privacy.resistFingerprinting.letterboxing:true
-
 privacy.resistFingerprinting.randomDataOnCanvasExtract:true
 
 privacy.resistFingerprinting.reduceTimerPrecision.jitter:true
