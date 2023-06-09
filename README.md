@@ -9,7 +9,7 @@ Hardened Firefox setings for Android
 
 - HTTPS Only Mode:All Tabs
 
-- Enhanced Tracking Protection:~Strict~ Standard (ETP is sending do not track header when set to strict,do not track header can be used for fingerprinnting)
+- Enhanced Tracking Protection:~Strict~ Standard (ETP is sending do not track header when set to strict,do not track header can be used for fingerprinting)
 
 - Show Search Suggestion:Off
 
