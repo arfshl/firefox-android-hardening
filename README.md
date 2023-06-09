@@ -68,8 +68,10 @@ Sanitize cross-site suspicious requests:ON
 
 Built-in:All
 
-Ads:EasyList/AdGuard Base,AdGuard Mobile Ads
+Ads:EasyList,AdGuard Base,AdGuard Mobile Ads
 
-Privacy:EasyPrivacy/[AdGuard Tracking Protection](abp:subscribe?location=https%3A%2F%2Ffilters.adtidy.org%2Fextension%2Fublock%2Ffilters%2F3.txt&title=AdGuard%20Tracking%20Protection%20Filter%20(uBlock%20Origin)),AdGuard URL Tracking Protection,Block Outsider Intrusion into LAN
+Privacy:EasyPrivacy,AdGuard URL Tracking Protection,Block Outsider Intrusion into LAN
 
 Malware:Online Malicious URL Blocklist,Phishing URL Blocklist,PUP Domains Blocklist
+
+Custom:[AdGuard Tracking Protection](abp:subscribe?location=https%3A%2F%2Ffilters.adtidy.org%2Fextension%2Fublock%2Ffilters%2F3.txt&title=AdGuard%20Tracking%20Protection%20Filter%20(uBlock%20Origin))
