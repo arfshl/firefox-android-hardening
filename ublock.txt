@@ -1,14 +1,15 @@
 {
-  "timeStamp": 1684278059720,
+  "timeStamp": 1686290170668,
   "version": "1.49.2",
   "userSettings": {
     "uiTheme": "dark",
     "externalLists": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt",
+    "firewallPaneMinimized": false,
     "ignoreGenericCosmeticFilters": false,
     "importedLists": [
       "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt"
     ],
-    "popupPanelSections": 31,
+    "popupPanelSections": 63,
     "webrtcIPAddressHidden": true
   },
   "selectedFilterLists": [
@@ -21,15 +22,14 @@
     "ublock-unbreak",
     "adguard-generic",
     "adguard-mobile",
+    "easylist",
     "adguard-spyware-url",
     "block-lan",
+    "easyprivacy",
     "urlhaus-1",
     "curben-phishing",
     "curben-pup",
-    "adguard-annoyance",
-    "adguard-social",
-    "ublock-annoyances",
-    "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+    "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt"
   ],
   "hiddenSettings": {},
   "whitelist": [
