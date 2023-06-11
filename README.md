@@ -54,6 +54,7 @@ media.peerconnection.enabled:false
 - Enable [Site Isolation](https://wiki.mozilla.org/Project_Fission) 
 
 fission.autostart:true
+
 gfx.webrender.all:true
 
 
