@@ -48,7 +48,14 @@ privacy.resistFingerprinting.testGranularityMask:0
 
 - Disable WebRTC (Meeting website may not working)
 
-media.peerconnection.enabled=false
+media.peerconnection.enabled:false
+
+
+- Enable [Site Isolation](https://wiki.mozilla.org/Project_Fission) 
+
+fission.autostart:true
+gfx.webrender.all:true
+
 
 5.Add-ons settings
 
