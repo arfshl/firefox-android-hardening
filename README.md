@@ -50,6 +50,10 @@ privacy.resistFingerprinting.testGranularityMask:0
 
 media.peerconnection.enabled:false
 
+- Enable Fission
+
+fission.autostart:true
+
 
 5.Add-ons settings
 
