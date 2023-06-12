@@ -51,13 +51,6 @@ privacy.resistFingerprinting.testGranularityMask:0
 media.peerconnection.enabled:false
 
 
-- Enable [Site Isolation](https://wiki.mozilla.org/Project_Fission) 
-
-fission.autostart:true
-
-gfx.webrender.all:true
-
-
 5.Add-ons settings
 
 - NoScript [Configuration File](https://github.com/arfshl/firefox-android-hardening/raw/main/noscript.txt)
