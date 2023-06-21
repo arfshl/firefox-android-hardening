@@ -57,7 +57,7 @@ fission.autostart:true
 
 5.Add-ons settings
 
-- NoScript [Configuration File](https://github.com/arfshl/firefox-android-hardening/raw/main/noscript.txt)
+- NoScript
 
 Default/Trusted:script,object,media,frame,font,webgl,fetch
 
@@ -67,14 +67,12 @@ Cross-tab identity leak protection:Enabled Everywhere
 
 Sanitize cross-site suspicious requests:ON
 
-- uBlock Origin [Configuration File](https://github.com/arfshl/firefox-android-hardening/raw/main/ublock.txt)
+- uBlock Origin
 
 Built-in:All
 
 Ads:EasyList,AdGuard Base,AdGuard Mobile Ads
 
-Privacy:EasyPrivacy,AdGuard URL Tracking Protection,Block Outsider Intrusion into LAN
+Privacy:EasyPrivacy,AdGuard URL Tracking Protection,AdGuard Tracking Protection,Block Outsider Intrusion into LAN
 
 Malware:Online Malicious URL Blocklist,Phishing URL Blocklist,PUP Domains Blocklist
-
-Custom:[AdGuard Tracking Protection](abp:subscribe?location=https%3A%2F%2Ffilters.adtidy.org%2Fextension%2Fublock%2Ffilters%2F3.txt&title=AdGuard%20Tracking%20Protection%20Filter%20(uBlock%20Origin))
